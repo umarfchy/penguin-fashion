@@ -3,3 +3,16 @@
   height: 50px;
   margin-right: 100px;
 }
+
+.site-button {
+  width: 135px;
+  height: 46px;
+  border-radius: 10px;
+  color: white;
+  background-color: #3d4ff3;
+}
+
+.cart-img {
+  width: 20%;
+  height: 70%;
+}
