@@ -16,3 +16,8 @@
   width: 20%;
   height: 70%;
 }
+
+.custom-card,
+.custom-card-footer {
+  border: none;
+}
