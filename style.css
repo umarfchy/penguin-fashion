@@ -1,13 +1,11 @@
 .shoe-site-logo {
-  width: 250px;
-  height: 50px;
-  margin-right: 100px;
+  width: 20rem;
 }
 
 .site-button {
   width: 135px;
   height: 46px;
-  border-radius: 10px;
+  border-radius: 5px;
   color: white;
   background-color: #3d4ff3;
 }

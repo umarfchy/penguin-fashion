@@ -1,3 +1,6 @@
-# milestone-website-2
+# Penguin Fashion
 
-live site: https://unzippinglinux.github.io/milestone-website-2/
+- Designed UI using Bootstrap
+- Added toggle navigation bar on mobile screen
+
+visit the site [HERE](https://umarfchy.github.io/penguin-fashion/index.html)
